@@ -1,5 +1,5 @@
 # 2fa
-Projenin amacı uygulamaya giris yaparken kullanıcın serverda kayıtlı mail adresine kod göndermektir
+Projenin amacı uygulamaya giris yaparken kullanıcının veritabanın da kayıtlı mail adresine kod göndermektir ve google mail servsine bağlanarak test edilmştir
 proje katmanlı olarak olusturuldugundan diger katmaları drive yukledim
 
 ![Ekran görüntüsü 2024-08-27 173823](https://github.com/user-attachments/assets/92b65363-3afa-48cc-92dd-903a8640298e)
