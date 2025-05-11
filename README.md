@@ -7,8 +7,11 @@ proje katmanlı olarak olusturuldugundan diger katmaları drive yukledim
 https://drive.google.com/drive/folders/1R3Uf-bqCq_pCtOGR7KqZsJ1fPYsJqM5U?usp=drive_link
 
 uygulamadan fotograflar
-![Ekran görüntüsü 2024-08-27 173613](https://github.com/user-attachments/assets/7366edbc-6f42-42ce-acaa-815c49bbd579)
-![Ekran görüntüsü 2024-08-27 174056](https://github.com/user-attachments/assets/33970480-d04f-4d68-aacd-a5b2cfed2d86)
+
+![Ekran görüntüsü 2025-05-11 115740](https://github.com/user-attachments/assets/8beac06b-2fa9-424b-9729-f58e6b33ad89)
+
+
+![Ekran görüntüsü 2025-05-11 115849](https://github.com/user-attachments/assets/228e65d8-136f-411d-b9d0-4a5193fd4c15)
 
 
 
